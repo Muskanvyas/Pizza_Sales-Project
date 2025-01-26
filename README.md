@@ -1,1 +1,2 @@
 This project contains of Pizza sales project in PPT format with SQL queries and their expected output. 
+Also, classicmodel SQL Project, key skills used in thiese projects are:- Use of Clauses, Case statements for segmentation, Use of Groupby, Constrains, Using several joins for expected output (self joi, right join, left join), Use of Stored Procedure, windows functions, subqueries, Handling of errors and triggers/
